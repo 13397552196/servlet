@@ -7,11 +7,18 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 <h1>hello</h1>
 <h1>你好</h1>
 a
 <h1>123</h1>
 b
 d
+=======
+<h1>hello</h1>
+<h1>123</h1>
+d
+ahotfix
+>>>>>>> refs/heads/hotfix
 </body>
 </html>
